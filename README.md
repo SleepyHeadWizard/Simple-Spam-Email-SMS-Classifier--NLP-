@@ -139,3 +139,4 @@ Contributions are welcome! If you find a bug, want to add a feature, or improve 
 4.  Commit your changes (`git commit -m 'Add some feature'`).
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Create a new Pull Request.
+7.
